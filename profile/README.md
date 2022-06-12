@@ -4,7 +4,7 @@
 
 cyubeVR supports three different types of modding, each best suited for different types of mods. Here you can find an overview of those three types of modding.
 
-# Custom Blocks
+## Custom Blocks
 
 Custom blocks are the simplest type of modding you can do in cyubeVR - creating blocks with custom textures and custom recipes, that can be used the same like any other block in the game. 
 
@@ -12,7 +12,7 @@ Making a custom block is very easy, it requires no programming at all. If you kn
 
 [The guide for how to create custom blocks can be found here.](https://steamcommunity.com/app/619500/discussions/3/1640917625019543783/)
 
-# VoxelAPI Modding
+## VoxelAPI Modding
 
 cyubeVR has a native modding API, called the VoxelAPI. It is an easy to use API for interacting with the voxel world in cyubeVR. Placing blocks, removing blocks, teleporting the player to some location, damaging/healing the player, any similar things. With the VoxelAPI, you can create any mod that is "block based". Want to generate custom ores in the ground? VoxelAPI! Want to procedurally generate a whole castle when the player places one block? VoxelAPI! Want to create a minigame with blocks that spawn around the player? VoxelAPI! 
 
@@ -20,9 +20,9 @@ To create a VoxelAPI mod, knowing how to create custom blocks is very useful, mo
 
 [Here you can find the repository for the VoxelAPI, where everything about it is nicely explained in the Readme.](https://github.com/sbsce/cyubeVR-VoxelAPI-Modding)
 
-# UE4 BP Modding
+## UE4 BP Modding
 
-UE4 BP Modding is the most powerful type of modding supported in cyubeVR. With UE4 BP Modding, you can create basically *anything* that you can make in UE4 and make it work inside of cyubeVR. Want to spawn your own enemies into the game? UE4 BP Mod! Want to make the deer play a nuclear explosion instead of the normal fireworks when they explode? UE4 BP Mod! Want to add driveable tanks into cyubeVR? UE4 BP Mod!
+UE4 BP (Unreal Engine 4 Blueprint) Modding is the most powerful type of modding supported in cyubeVR. With UE4 BP Modding, you can create basically *anything* that you can make in UE4 and make it work inside of cyubeVR. Want to spawn your own enemies into the game? UE4 BP Mod! Want to make the deer play a nuclear explosion instead of the normal fireworks when they explode? UE4 BP Mod! Want to add driveable tanks into cyubeVR? UE4 BP Mod!
 
 UE4 Modding is very powerful, but requires you to need to know at least the basics of how to use UE4. UE4 BP Modding can also be combined with VoxelAPI modding - for example, you can make a VoxelAPI Mod spawn a particle effect or a sound effect from a UE4 BP Mod.
 
