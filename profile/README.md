@@ -1,5 +1,3 @@
-![Header](https://github.com/cyubeVR-Modding/.github/blob/1ac0eced9e05cb5cfa5127d687684bf39a0aff9b/profile/modding%20banner.png "Header")
-
 # cyubeVR Modding Overview
 
 cyubeVR supports **three different types of modding**, each requiring different skills, and best suited for different types of mods. Here you can find an overview of those three types of modding.
