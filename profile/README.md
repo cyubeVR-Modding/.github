@@ -2,7 +2,7 @@
 
 # cyubeVR Modding Overview
 
-cyubeVR supports three different types of modding, each best suited for different types of mods. Here you can find an overview of those three types of modding.
+cyubeVR supports **three different types of modding**, each requiring different skills, and best suited for different types of mods. Here you can find an overview of those three types of modding.
 
 ## Custom Blocks
 
