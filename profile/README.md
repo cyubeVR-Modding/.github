@@ -8,7 +8,7 @@ cyubeVR supports **three different types of modding**, each requiring different 
 
 Custom blocks are the simplest type of modding you can do in cyubeVR - creating blocks with custom textures and custom recipes, that can be used the same like any other block in the game. 
 
-Making a custom block is very easy, it requires no programming at all. If you know how to use any image editing software, you can create a custom block! 
+Making a custom block is very easy, it requires no programming at all. If you know how to use any image editing software, you can create a custom block! If you are primarily an artist and not a programmer, this is exactly for you!
 
 [The guide for how to create custom blocks can be found here.](https://steamcommunity.com/app/619500/discussions/3/1640917625019543783/)
 
