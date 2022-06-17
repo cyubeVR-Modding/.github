@@ -21,9 +21,13 @@ There needs to be a `ModProperties.json` file in your mod folder (the folder in 
 
 The `DisplayName` is the name of the mod that will be visible on the Steam Workshop, and the `InternalUniqueName` is a unique name that you can't ever change any more after it has been uploaded to the workshop. Changing that `InternalUniqueName` would make it impossible to update the mod on the workshop because Steam would instead think it is a completely new mod. So this setup exists to make it possible to update the mod with a different `Display Name` if required.
 
+[Here you can find a real world example of a ModProperties.json file.](https://github.com/sbsce/cyubeVR-VoxelAPI-Modding/blob/main/Examples/Simple%20House%20Generator/ModProperties.json)
+
 ## The Preview Image
 
 Inside of the `[GameInstallDirectory]/cyubeVR/Mods/ModFolders/ModName/Update X/` folder you need a `PreviewImage.jpg` file. That should be a roughly 1024x1024 preview image in JPG format, and it **has to be** below 1 MB in size. That image is what will be visible in the Steam Workshop as the preview image of your mod.
+
+[Here you can find a real world example of a PreviewImage.jpg file.](https://github.com/sbsce/cyubeVR-VoxelAPI-Modding/blob/main/Examples/Simple%20House%20Generator/Update%2051/PreviewImage.jpg)
 
 ## Pressing the button
 
