@@ -4,7 +4,7 @@ After you've made your mod, you probably want to upload it to the [Steam Worksho
 
 This description applies to both **VoxelAPI Mods**, and **UE4 BP Mods**. This description does **not** apply to mods that are purely custom blocks without any code. Pure custom blocks use a simpler setup, as described in the [guide about how to make custom blocks](https://steamcommunity.com/app/619500/discussions/3/1640917625019543783/).
 
-Assuming your mod loads correctly in the game, you can be sure that the folder structure for your mod already is correct. If your mod does not yet load correctly in the game, go back and make sure it does before continueing with this guide. Only mods that are correctly loaded by the game can get uploaded to the Steam Workshop.
+Assuming your mod loads correctly in the game, you can be sure that the folder structure for your mod already is correct. If your mod does not yet load correctly in the game, go back and make sure it does before continuing with this guide. Only mods that are correctly loaded by the game can get uploaded to the Steam Workshop.
 
 After you have your mod working, there are only two additional steps required for a mod to be able to get uploaded to the Steam Workshop:
 
